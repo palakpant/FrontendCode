@@ -1,0 +1,73 @@
+
+.main-login{
+  
+    min-height: 70vh;
+   
+ background-image: url('/src/components/images/vector.jpeg');
+ /* background-size: 100% 100%; */
+ background-size: cover;
+ background-repeat: no-repeat;
+   
+    
+}
+
+.login-contain{
+
+    height:44vh;
+    width:50%;
+
+    
+    
+    background: linear-gradient(rgb(233,221,221), rgba(246, 241, 237, 0.777));
+    margin:10rem auto;
+    box-shadow:0.5rem 0.5rem 5rem -0.5rem rgb(238, 103, 19);
+    display:flex;
+   
+   
+    
+}
+.button{
+    width:100%;
+}
+.link{
+    text-decoration: none;
+    color:black;
+    
+}
+.link:hover{
+    color: black;
+}
+
+
+
+.user{
+    color:rgb(51, 49, 49);
+    
+  
+}
+
+.usericon{
+   margin-bottom: 2rem;
+   margin-left: 35%;
+
+    
+}
+
+
+
+.login{
+    margin:auto;
+}
+
+.field{
+    width:20vw;
+}
+
+.header{
+    font-family: Arial;
+    text-decoration:none;
+    pointer-events: none;
+    
+   
+}
+

@@ -1,0 +1,26 @@
+.home-page-picture{
+    width:100%;
+    height:75vh;
+   
+    
+}
+
+.header-css{
+    background: linear-gradient(rgb(233,221,221), rgba(246, 241, 237, 0.777));
+    box-shadow:0.3rem 0.3rem 3rem -0.3rem rgb(245, 215, 196);
+    
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+
+.background{
+    /* background-color: antiquewhite; */
+    background-color: #343a40;
+    box-shadow:0.3rem 0.3rem 3rem -0.3rem rgb(238, 103, 19);
+    margin-top: 0;
+}
+
+.css{
+    font-family: Helvetica;
+    font-weight: bold;
+}

@@ -1,0 +1,13 @@
+.dashboard-css{
+     
+   margin-top:3rem;
+   margin-bottom: 2rem;
+}
+
+.title-dashboard{
+    margin-top:6rem;
+}
+
+.card{
+    box-shadow:2rem 2rem 2rem -2rem rgb(245, 215, 196);
+}

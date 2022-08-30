@@ -1,0 +1,26 @@
+.App{
+  min-height: 100vh;
+  overflow: hidden;
+ 
+}
+
+
+.text{
+  color: rgb(238, 103, 19);
+  font-weight:900 ;
+  font-size: 4vh;
+ 
+}
+
+.links{
+  /* color: rgba(128, 128, 128, 0.93); */
+  font-weight:100 ;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.emp-code-css{
+  font-size: 18px;
+}
+
+

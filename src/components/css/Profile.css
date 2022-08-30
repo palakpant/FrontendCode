@@ -1,0 +1,81 @@
+.main-container{
+    background-color: #343a40;
+    height:90vh;
+    width:60vw;
+    box-shadow:0.3rem 0.3rem 3rem -0.3rem rgb(238, 103, 19);
+
+    
+}
+
+.user-css{
+    /* align-items: center; */
+  
+    /* margin-top: 20px;
+     */
+
+     
+  
+  
+   
+   margin:auto;
+   width:20%;
+   height: 40%;
+   padding:15px;
+  
+}
+
+
+
+
+.user-content{
+    margin:auto;
+    margin-top: 56px;
+    color: rgb(73, 70, 67);
+    width:24%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+
+.user-container{
+    height:30vh;
+    width:57vw;
+    background: linear-gradient(rgb(220, 113, 19), rgba(213, 127, 58, 0.777));
+    box-shadow:0.3rem 0.3rem 3rem -0.3rem rgb(245, 215, 196);
+}
+
+
+.details-container{
+    height:56vh;
+    width:57vw;
+    background: linear-gradient(rgb(233,221,221), rgba(246, 241, 237, 0.777));
+    box-shadow:0.3rem 0.3rem 3rem -0.3rem rgb(245, 215, 196);
+   
+}
+
+.nav-css{
+    background-color: rgb(0, 7, 7);
+}
+.card-css{
+    padding: 0;
+
+}
+.first-card{
+    margin-left:120px;
+    margin-top: 90px;
+   
+   
+   
+}
+
+.second-card{
+    margin-right: 50px;
+    margin-top: 90px;
+   
+   
+   
+}
+
+
+

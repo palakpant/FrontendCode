@@ -1,0 +1,35 @@
+.main-register{
+    
+    min-height: 70vh;
+
+    background-image: url('/src/components/images/vector.jpeg');
+    background-size: cover;
+    /* background-size: 100% 140%; */
+    border: 0;
+    background-repeat: no-repeat;
+   
+    
+}
+
+
+
+.register-contain{
+
+    height:47vh;
+    width:46%;
+    
+    background: linear-gradient(rgb(233,221,221), rgba(246, 241, 237, 0.777));
+    margin:11rem auto;
+    box-shadow:0.5rem 0.5rem 5rem -0.5rem rgb(238, 103, 19);
+    display:flex;
+   
+   
+    
+}
+
+
+
+.register{
+    margin: auto;
+}
+
